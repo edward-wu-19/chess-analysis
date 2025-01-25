@@ -43,6 +43,16 @@ Question 5. Do more experienced players keep their queens on the board for longe
 Question 6. How do blunder rates vary during a game?
 - No sub-questions.
 
+Question 7. Is playing a check a symbol of being on the offensive or on the defensive?
+- 7.1.1 How is the relative board evaluation distributed among moves that are checks?
+- 7.1.2 How often is a check followed up by another check (by the same or opposing player)?
+- 7.2 How is the number of checks in a game correlated with the number of plies in the game?
+- 7.3 Do players play more checks when they are under time pressure?
+- 7.4 How is the number of checks correlated with the elos and elo difference between the two players?
+- 7.5 Do players check more often when in a disadvantageous position?
+
+Question 8. Which pieces are used to deliver a check or checkmate most often?
+
 # Acknoledgements
 Special thanks to Professor Carlos Fernandez-Granda for his invaluable advice over the course of the project, as well as to the team at the University of Toronto's Computational Social Sciences Lab for their work in partially preprocessing the Lichess data into CSV format.
 

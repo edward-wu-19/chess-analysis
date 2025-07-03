@@ -53,7 +53,7 @@ Question 7. Is playing a check a symbol of being on the offensive or on the defe
 
 Question 8. Which pieces are used to deliver a check or checkmate most often?
 
-# Acknoledgements
+# Acknowledgements
 Special thanks to Professor Carlos Fernandez-Granda for his invaluable advice over the course of the project, as well as to the team at the University of Toronto's Computational Social Sciences Lab for their work in partially preprocessing the Lichess data into CSV format.
 
 ## Links
